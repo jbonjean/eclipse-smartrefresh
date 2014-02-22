@@ -8,7 +8,7 @@ auto-refresh of the workspace.
 
 ## Installation
 
- - Download the zip archive from GitHub releases.
+ - Download the [zip archive](https://github.com/jbonjean/smartrefresh/releases/download/0.1/info.bonjean.eclipse.smartrefresh-0.1.zip) from GitHub releases.
  - Extract it into {ECLIPSE_DIRECTORY}/dropins.
  - Start Eclipse
  - Go to Window->Preferences->General->Workspace
