@@ -3,7 +3,7 @@ SmartRefresh
 
 ## Description
 
-Simple Eclipse plugin that rely on the new WatchService from Java 7 to provide
+Simple Eclipse plugin that relies on the new WatchService from Java 7 to provide
 auto-refresh of the workspace.
 
 ## Installation
