@@ -10,9 +10,9 @@ auto-refresh of the workspace.
 
  - Download the [zip archive](https://github.com/jbonjean/smartrefresh/releases/download/0.1/info.bonjean.eclipse.smartrefresh-0.1.zip) from GitHub releases.
  - Extract it into {ECLIPSE_DIRECTORY}/dropins.
- - Start Eclipse
- - Go to Window->Preferences->General->Workspace
- - Enable the "Refresh using native hooks or polling" option
+ - Start Eclipse.
+ - Go to Window->Preferences->General->Workspace.
+ - Enable the "Refresh using native hooks or polling" option.
 
 ## License
 
